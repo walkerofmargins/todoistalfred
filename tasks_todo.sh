@@ -1,2 +1,2 @@
-curl "https://beta.todoist.com/API/v8/labels" \
+curl "https://api.todoist.com/rest/v1/labels" \
     -H "Authorization: Bearer $bearer"
